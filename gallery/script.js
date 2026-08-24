@@ -1,5 +1,5 @@
 const USER="lynamy";
-const REPO="rpg-assets";
+const REPO="lyne";
 const ROOT="assets";
  
 const gallery=document.getElementById("gallery");
