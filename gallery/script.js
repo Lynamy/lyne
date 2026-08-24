@@ -1,6 +1,6 @@
 const USER="lynamy";
 const REPO="lyne";
-const ROOT="lyne";
+const ROOT="assets";
  
 const gallery=document.getElementById("gallery");
 const back=document.getElementById("back");
